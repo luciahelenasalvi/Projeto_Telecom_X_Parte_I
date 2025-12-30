@@ -62,6 +62,8 @@ Desenvolvimento realizado na linguagem Python, utilizando a biblioteca Pandas. T
 * Faça o upload do arquivo. 
 No menu "Ambiente de Execução" >> Executar tudo ou Ctrl + F9
 
+O arquivo 'clientes_evasao' é o arquivo .csv dos dados transformados. 
+
 
 ### Conclusões
 O arquivo, após transformações, passou a ter 7043 linhas e 22 colunas. 
@@ -74,3 +76,4 @@ O arquivo, após transformações, passou a ter 7043 linhas e 22 colunas.
 
 
 Desenvolvido por Lúcia Helena Aparecida Rissi Salvi  - Módulo II Data Science Oracle Next Education | G9.
+
